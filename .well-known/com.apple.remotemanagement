@@ -1,7 +1,7 @@
 {
   "Servers": [
     {
-      "Version": "mdm-byod",
+      "Version": "mdm-BYOD",
       "BaseURL": "https://kentpower.jamfcloud.com/servicediscoveryenrollment/v1/userenroll"
     }
   ]
